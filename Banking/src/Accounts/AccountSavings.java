@@ -1,7 +1,7 @@
 package Accounts;
 
-public class AccountPremium {
-    final String accountName = "Konto Premium";
+public class AccountSavings {
+    final String accountName = "Konto Oszczednosciowe";
 
     private long iBan;
     private double balance;
