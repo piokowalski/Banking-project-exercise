@@ -1,5 +1,6 @@
 package Accounts;
 
-public class AccountsTypes {
+public abstract class AccountsTypes {
+
 
 }
